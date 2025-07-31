@@ -1,5 +1,5 @@
-👨‍💻 Syed Babar
-SharePoint Automation Specialist | Power Platform Enthusiast | Contributor of PnP PowerShell Solutions
+## 👨‍💻 Syed Babar
+# SharePoint Automation Specialist | Power Platform Enthusiast | Contributor of PnP PowerShell Solutions
 
 Hello! 👋 I'm Syed, a Microsoft 365 professional passionate about automating enterprise collaboration using SharePoint, Power Automate, Power Apps, and Power BI.
 I specialize in crafting scripts, workflows, and low-code solutions that empower teams to work smarter and manage access, governance, and data flow with precision.
